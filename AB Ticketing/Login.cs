@@ -20,6 +20,7 @@ namespace AB_Ticketing
         private void button2_Click(object sender, EventArgs e)
         {
             Application.Exit();
+            string a = "hello World";
         }
 
         private void button1_Click(object sender, EventArgs e)
